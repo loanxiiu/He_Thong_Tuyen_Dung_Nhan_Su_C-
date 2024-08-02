@@ -1,0 +1,12 @@
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DTO_QLTD\bin\Debug\DTO_QLTD.dll
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DTO_QLTD\bin\Debug\DTO_QLTD.pdb
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DTO_QLTD\obj\Debug\DTO_QLTD.csproj.AssemblyReference.cache
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DTO_QLTD\obj\Debug\DTO_QLTD.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DTO_QLTD\obj\Debug\DTO_QLTD.dll
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DTO_QLTD\obj\Debug\DTO_QLTD.pdb
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DTO_QLTD\bin\Debug\DTO_QLTD.dll
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DTO_QLTD\bin\Debug\DTO_QLTD.pdb
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DTO_QLTD\obj\Debug\DTO_QLTD.csproj.AssemblyReference.cache
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DTO_QLTD\obj\Debug\DTO_QLTD.csproj.CoreCompileInputs.cache
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DTO_QLTD\obj\Debug\DTO_QLTD.dll
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DTO_QLTD\obj\Debug\DTO_QLTD.pdb

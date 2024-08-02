@@ -1,0 +1,1693 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|e:\\documents\\l\u1EADp tr\u00ECnh .net\\nhom8_detai11_it20\\nhom8_detai11_it20\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\printreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\printreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr_lichphongvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr_lichphongvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr_qlhoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr_qlhoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\printreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\printreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\recruiter_quanlyhoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\recruiter_quanlyhoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\recruiter_quanlyhoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\recruiter_quanlyhoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\recruiter_quanlyhoso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\recruiter_quanlyhoso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\recruiter_lienlac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\recruiter_lienlac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\recruiter_lienlac.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\recruiter_lienlac.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\recruiter_dangtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\recruiter_dangtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\recruiter_dangtin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\recruiter_dangtin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\recruiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\recruiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\recruiter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\recruiter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr_quanlyvitrituyendung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr_quanlyvitrituyendung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr_quanlyvitrituyendung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr_quanlyvitrituyendung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr_qlhoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr_qlhoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr_qlhoso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr_qlhoso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr_lichphongvan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr_lichphongvan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr_doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr_doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr_doimatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr_doimatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentmanager_yeucau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentmanager_yeucau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentmanager_yeucau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentmanager_yeucau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentmanager_vitritd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentmanager_vitritd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentmanager_vitritd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentmanager_vitritd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentmanager_hoso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentmanager_hoso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentemployee_lichphongvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentemployee_lichphongvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentemployee_lichphongvan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentemployee_lichphongvan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentemployee_duyethoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentemployee_duyethoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentemployee_duyethoso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentemployee_duyethoso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentemployee_duyethoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentemployee_duyethoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\admin_qlbp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\admin_qlbp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\admin_qlbp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\admin_qlbp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\admin_nvtd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\admin_nvtd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\admin_nvtd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\admin_nvtd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\admin_nvbp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\admin_nvbp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\admin_nvbp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\admin_nvbp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\admin_hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\admin_hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\admin_hr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\admin_hr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dto_qltd\\iadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|solutionrelative:dto_qltd\\iadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dto_qltd\\dto_resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|solutionrelative:dto_qltd\\dto_resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dto_qltd\\dto_recruitmentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|solutionrelative:dto_qltd\\dto_recruitmentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dto_qltd\\dto_recruiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|solutionrelative:dto_qltd\\dto_recruiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dto_qltd\\dto_newemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|solutionrelative:dto_qltd\\dto_newemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dto_qltd\\dto_jobvacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|solutionrelative:dto_qltd\\dto_jobvacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dto_qltd\\dto_interviewschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|solutionrelative:dto_qltd\\dto_interviewschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dto_qltd\\dto_departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|solutionrelative:dto_qltd\\dto_departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dto_qltd\\dto_departmentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|solutionrelative:dto_qltd\\dto_departmentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dto_qltd\\dto_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|solutionrelative:dto_qltd\\dto_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dto_qltd\\dto_applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|solutionrelative:dto_qltd\\dto_applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dto_qltd\\dto_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|solutionrelative:dto_qltd\\dto_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dto_qltd\\dto_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|solutionrelative:dto_qltd\\dto_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E8B35-C0C0-42A4-BA65-B8A2BE70F2B0}|DAL_QLTD\\DAL_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dal_qltd\\recruitmentdetailaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E8B35-C0C0-42A4-BA65-B8A2BE70F2B0}|DAL_QLTD\\DAL_QLTD.csproj|solutionrelative:dal_qltd\\recruitmentdetailaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E8B35-C0C0-42A4-BA65-B8A2BE70F2B0}|DAL_QLTD\\DAL_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dal_qltd\\jobvacancyaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E8B35-C0C0-42A4-BA65-B8A2BE70F2B0}|DAL_QLTD\\DAL_QLTD.csproj|solutionrelative:dal_qltd\\jobvacancyaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E8B35-C0C0-42A4-BA65-B8A2BE70F2B0}|DAL_QLTD\\DAL_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dal_qltd\\interviewscheduleaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E8B35-C0C0-42A4-BA65-B8A2BE70F2B0}|DAL_QLTD\\DAL_QLTD.csproj|solutionrelative:dal_qltd\\interviewscheduleaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E8B35-C0C0-42A4-BA65-B8A2BE70F2B0}|DAL_QLTD\\DAL_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dal_qltd\\dal_databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E8B35-C0C0-42A4-BA65-B8A2BE70F2B0}|DAL_QLTD\\DAL_QLTD.csproj|solutionrelative:dal_qltd\\dal_databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E8B35-C0C0-42A4-BA65-B8A2BE70F2B0}|DAL_QLTD\\DAL_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dal_qltd\\changepasswordaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E8B35-C0C0-42A4-BA65-B8A2BE70F2B0}|DAL_QLTD\\DAL_QLTD.csproj|solutionrelative:dal_qltd\\changepasswordaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E8B35-C0C0-42A4-BA65-B8A2BE70F2B0}|DAL_QLTD\\DAL_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dal_qltd\\accountaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E8B35-C0C0-42A4-BA65-B8A2BE70F2B0}|DAL_QLTD\\DAL_QLTD.csproj|solutionrelative:dal_qltd\\accountaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1590EB16-8415-44C1-AE8A-1090A93AC468}|BUS_QLTD\\BUS_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\bus_qltd\\bus_recruitmentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1590EB16-8415-44C1-AE8A-1090A93AC468}|BUS_QLTD\\BUS_QLTD.csproj|solutionrelative:bus_qltd\\bus_recruitmentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1590EB16-8415-44C1-AE8A-1090A93AC468}|BUS_QLTD\\BUS_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\bus_qltd\\bus_interviewschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1590EB16-8415-44C1-AE8A-1090A93AC468}|BUS_QLTD\\BUS_QLTD.csproj|solutionrelative:bus_qltd\\bus_interviewschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1590EB16-8415-44C1-AE8A-1090A93AC468}|BUS_QLTD\\BUS_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\bus_qltd\\bus_jobvacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1590EB16-8415-44C1-AE8A-1090A93AC468}|BUS_QLTD\\BUS_QLTD.csproj|solutionrelative:bus_qltd\\bus_jobvacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1590EB16-8415-44C1-AE8A-1090A93AC468}|BUS_QLTD\\BUS_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\bus_qltd\\bus_changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1590EB16-8415-44C1-AE8A-1090A93AC468}|BUS_QLTD\\BUS_QLTD.csproj|solutionrelative:bus_qltd\\bus_changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1590EB16-8415-44C1-AE8A-1090A93AC468}|BUS_QLTD\\BUS_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\bus_qltd\\bus_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1590EB16-8415-44C1-AE8A-1090A93AC468}|BUS_QLTD\\BUS_QLTD.csproj|solutionrelative:bus_qltd\\bus_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr_doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr_doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentemployee_lichphongvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentemployee_lichphongvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentmanager_yeucau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentmanager_yeucau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentmanager_vitritd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentmanager_vitritd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentmanager_hoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentmanager_hoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr_lichphongvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr_lichphongvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\departmentmanager_hoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\departmentmanager_hoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr_quanlyvitrituyendung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr_quanlyvitrituyendung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\hr_lichphongvan.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\hr_lichphongvan.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\recruiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\recruiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dto_qltd\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|solutionrelative:dto_qltd\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\dto_qltd\\iresume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD88E5F5-4E3C-417A-899F-A97FFA6045D5}|DTO_QLTD\\DTO_QLTD.csproj|solutionrelative:dto_qltd\\iresume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GUI_QLTD||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\recruiter_dangtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\recruiter_dangtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\recruiter_lienlac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\recruiter_lienlac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\rjbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\rjbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\rjbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\rjbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\test.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\test.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\nhom8_detai11_it20\\t\u1EA3i-xu\u1ED1ng.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}|Nhom8_DeTai11_IT20\\GUI_QLTD.csproj|solutionrelative:nhom8_detai11_it20\\t\u1EA3i-xu\u1ED1ng.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 286,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 417,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Form1.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Form1.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Form1.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Form1.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAkwH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T09:17:53.734Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DepartmentEmployee.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentEmployee.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentEmployee.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAUwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:44:36.608Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrintReport.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\PrintReport.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\PrintReport.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\PrintReport.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\PrintReport.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:25:58.978Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrystalReport1.rpt",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\CrystalReport1.rpt",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\CrystalReport1.rpt",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\CrystalReport1.rpt",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\CrystalReport1.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-13T06:26:51.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrintReport.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\PrintReport.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\PrintReport.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\PrintReport.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\PrintReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:24:09.895Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HR_QLHoSo.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_QLHoSo.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR_QLHoSo.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_QLHoSo.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR_QLHoSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:34:46.328Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HR_lichPhongVan.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_lichPhongVan.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR_lichPhongVan.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_lichPhongVan.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR_lichPhongVan.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAiwNwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:29:03.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Program.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Program.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Program.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:54:40.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Recruiter_QuanLyHoSo.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_QuanLyHoSo.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Recruiter_QuanLyHoSo.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_QuanLyHoSo.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Recruiter_QuanLyHoSo.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAYwKgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T11:49:51.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Recruiter_QuanLyHoSo.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_QuanLyHoSo.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Recruiter_QuanLyHoSo.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_QuanLyHoSo.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Recruiter_QuanLyHoSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:53:31.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Recruiter_QuanLyHoSo.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_QuanLyHoSo.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Recruiter_QuanLyHoSo.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_QuanLyHoSo.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Recruiter_QuanLyHoSo.Designer.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAowNgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:13:13.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Recruiter_LienLac.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_LienLac.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Recruiter_LienLac.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_LienLac.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Recruiter_LienLac.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAYwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:46:59.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Recruiter_LienLac.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_LienLac.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Recruiter_LienLac.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_LienLac.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Recruiter_LienLac.Designer.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAowMgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:55:15.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Recruiter_DangTin.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_DangTin.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Recruiter_DangTin.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_DangTin.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Recruiter_DangTin.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:09:42.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Recruiter_DangTin.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_DangTin.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Recruiter_DangTin.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_DangTin.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Recruiter_DangTin.Designer.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAgwLMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:22:19.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Recruiter.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Recruiter.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Recruiter.Designer.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAowLkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:55:06.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Recruiter.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Recruiter.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Recruiter.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:52:13.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HR_QuanLyViTriTuyenDung.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_QuanLyViTriTuyenDung.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR_QuanLyViTriTuyenDung.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_QuanLyViTriTuyenDung.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR_QuanLyViTriTuyenDung.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAQwP4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:14:02.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HR_QuanLyViTriTuyenDung.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_QuanLyViTriTuyenDung.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR_QuanLyViTriTuyenDung.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_QuanLyViTriTuyenDung.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR_QuanLyViTriTuyenDung.Designer.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAowO0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:33:29.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HR_QLHoSo.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_QLHoSo.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR_QLHoSo.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_QLHoSo.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR_QLHoSo.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAwLUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:50:45.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HR_QLHoSo.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_QLHoSo.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR_QLHoSo.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_QLHoSo.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR_QLHoSo.Designer.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAowGYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:04:00.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HR_lichPhongVan.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_lichPhongVan.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR_lichPhongVan.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_lichPhongVan.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR_lichPhongVan.Designer.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAIwNwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:07:46.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HR_DoiMatKhau.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_DoiMatKhau.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR_DoiMatKhau.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_DoiMatKhau.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR_DoiMatKhau.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAxwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:56:54.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HR_DoiMatKhau.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_DoiMatKhau.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR_DoiMatKhau.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_DoiMatKhau.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR_DoiMatKhau.Designer.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAcwLMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:44:56.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HR.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:01:25.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HR.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR.Designer.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAowMIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:13:24.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Form1.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Form1.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Form1.Designer.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:18:41.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DepartmentManager_YeuCau.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_YeuCau.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentManager_YeuCau.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_YeuCau.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentManager_YeuCau.cs",
+              "ViewState": "AQIAACUBAAAAAAAAAAAwwEkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:49:07.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DepartmentManager_YeuCau.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_YeuCau.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentManager_YeuCau.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_YeuCau.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentManager_YeuCau.Designer.cs",
+              "ViewState": "AQIAAD8CAAAAAAAAAAAYwGwCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:17:44.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DepartmentManager_ViTriTD.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_ViTriTD.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentManager_ViTriTD.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_ViTriTD.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentManager_ViTriTD.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAQwDABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:51:55.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DepartmentManager_ViTriTD.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_ViTriTD.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentManager_ViTriTD.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_ViTriTD.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentManager_ViTriTD.Designer.cs",
+              "ViewState": "AQIAALwBAAAAAAAAAAAmwOoBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T00:20:51.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DepartmentManager_HoSo.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_HoSo.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentManager_HoSo.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_HoSo.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentManager_HoSo.Designer.cs",
+              "ViewState": "AQIAADUBAAAAAAAAAAAmwGMBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:20:38.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DepartmentManager.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentManager.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentManager.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:00:26.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DepartmentManager.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentManager.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentManager.Designer.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAAmwC4BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:37:09.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DepartmentEmployee_LichPhongVan.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee_LichPhongVan.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentEmployee_LichPhongVan.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee_LichPhongVan.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentEmployee_LichPhongVan.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAwwNQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:09:04.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DepartmentEmployee_LichPhongVan.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee_LichPhongVan.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentEmployee_LichPhongVan.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee_LichPhongVan.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentEmployee_LichPhongVan.Designer.cs",
+              "ViewState": "AQIAABMBAAAAAAAAAAAmwEEBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:13:21.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DepartmentEmployee_DuyetHoSo.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee_DuyetHoSo.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentEmployee_DuyetHoSo.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee_DuyetHoSo.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentEmployee_DuyetHoSo.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAiwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:42:51.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DepartmentEmployee_DuyetHoSo.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee_DuyetHoSo.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentEmployee_DuyetHoSo.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee_DuyetHoSo.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentEmployee_DuyetHoSo.Designer.cs",
+              "ViewState": "AQIAADkBAAAAAAAAAAAmwGcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:11:52.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DepartmentEmployee_DuyetHoSo.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee_DuyetHoSo.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentEmployee_DuyetHoSo.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee_DuyetHoSo.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentEmployee_DuyetHoSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:30:28.607Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DepartmentEmployee.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentEmployee.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:26:00.338Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Admin_QLBP.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_QLBP.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Admin_QLBP.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_QLBP.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Admin_QLBP.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:52:42.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Admin_QLBP.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_QLBP.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Admin_QLBP.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_QLBP.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Admin_QLBP.Designer.cs",
+              "ViewState": "AQIAADIBAAAAAAAAAAAmwGABAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:09:31.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Admin_NVTD.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_NVTD.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Admin_NVTD.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_NVTD.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Admin_NVTD.Designer.cs",
+              "ViewState": "AQIAADIBAAAAAAAAAAAmwGABAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:08:52.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Admin_NVTD.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_NVTD.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Admin_NVTD.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_NVTD.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Admin_NVTD.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:44:10.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Admin_NVBP.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_NVBP.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Admin_NVBP.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_NVBP.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Admin_NVBP.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAUwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:07:55.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Admin_NVBP.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_NVBP.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Admin_NVBP.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_NVBP.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Admin_NVBP.Designer.cs",
+              "ViewState": "AQIAADIBAAAAAAAAAAAmwGABAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:07:36.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Admin.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Admin.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Admin.Designer.cs",
+              "ViewState": "AQIAADABAAAAAAAAAAAmwF4BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:05:10.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Admin.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Admin.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:18:10.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Admin_HR.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_HR.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Admin_HR.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_HR.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Admin_HR.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAmwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:36:17.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Admin_HR.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_HR.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Admin_HR.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin_HR.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Admin_HR.Designer.cs",
+              "ViewState": "AQIAADMBAAAAAAAAAAAmwGEBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:05:41.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IAdmin.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\IAdmin.cs",
+              "RelativeDocumentMoniker": "DTO_QLTD\\IAdmin.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\IAdmin.cs",
+              "RelativeToolTip": "DTO_QLTD\\IAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:04:48.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DTO_RecruitmentDetails.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_RecruitmentDetails.cs",
+              "RelativeDocumentMoniker": "DTO_QLTD\\DTO_RecruitmentDetails.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_RecruitmentDetails.cs",
+              "RelativeToolTip": "DTO_QLTD\\DTO_RecruitmentDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:08:59.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DTO_Resume.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_Resume.cs",
+              "RelativeDocumentMoniker": "DTO_QLTD\\DTO_Resume.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_Resume.cs",
+              "RelativeToolTip": "DTO_QLTD\\DTO_Resume.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:19:27.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DTO_Recruiter.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_Recruiter.cs",
+              "RelativeDocumentMoniker": "DTO_QLTD\\DTO_Recruiter.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_Recruiter.cs",
+              "RelativeToolTip": "DTO_QLTD\\DTO_Recruiter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:37:31.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DTO_NewEmployee.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_NewEmployee.cs",
+              "RelativeDocumentMoniker": "DTO_QLTD\\DTO_NewEmployee.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_NewEmployee.cs",
+              "RelativeToolTip": "DTO_QLTD\\DTO_NewEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:37:25.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DTO_JobVacancy.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_JobVacancy.cs",
+              "RelativeDocumentMoniker": "DTO_QLTD\\DTO_JobVacancy.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_JobVacancy.cs",
+              "RelativeToolTip": "DTO_QLTD\\DTO_JobVacancy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:37:23.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DTO_InterviewSchedule.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_InterviewSchedule.cs",
+              "RelativeDocumentMoniker": "DTO_QLTD\\DTO_InterviewSchedule.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_InterviewSchedule.cs",
+              "RelativeToolTip": "DTO_QLTD\\DTO_InterviewSchedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:37:21.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DTO_DepartmentManager.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_DepartmentManager.cs",
+              "RelativeDocumentMoniker": "DTO_QLTD\\DTO_DepartmentManager.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_DepartmentManager.cs",
+              "RelativeToolTip": "DTO_QLTD\\DTO_DepartmentManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:37:19.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DTO_DepartmentEmployee.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_DepartmentEmployee.cs",
+              "RelativeDocumentMoniker": "DTO_QLTD\\DTO_DepartmentEmployee.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_DepartmentEmployee.cs",
+              "RelativeToolTip": "DTO_QLTD\\DTO_DepartmentEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:37:17.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DTO_Department.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_Department.cs",
+              "RelativeDocumentMoniker": "DTO_QLTD\\DTO_Department.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_Department.cs",
+              "RelativeToolTip": "DTO_QLTD\\DTO_Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:37:15.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DTO_Applicant.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_Applicant.cs",
+              "RelativeDocumentMoniker": "DTO_QLTD\\DTO_Applicant.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_Applicant.cs",
+              "RelativeToolTip": "DTO_QLTD\\DTO_Applicant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:37:09.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DTO_Admin.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_Admin.cs",
+              "RelativeDocumentMoniker": "DTO_QLTD\\DTO_Admin.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_Admin.cs",
+              "RelativeToolTip": "DTO_QLTD\\DTO_Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:37:05.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DTO_Account.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_Account.cs",
+              "RelativeDocumentMoniker": "DTO_QLTD\\DTO_Account.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\DTO_Account.cs",
+              "RelativeToolTip": "DTO_QLTD\\DTO_Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:01:55.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "RecruitmentDetailAccess.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DAL_QLTD\\RecruitmentDetailAccess.cs",
+              "RelativeDocumentMoniker": "DAL_QLTD\\RecruitmentDetailAccess.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DAL_QLTD\\RecruitmentDetailAccess.cs",
+              "RelativeToolTip": "DAL_QLTD\\RecruitmentDetailAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:02:25.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "JobVacancyAccess.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DAL_QLTD\\JobVacancyAccess.cs",
+              "RelativeDocumentMoniker": "DAL_QLTD\\JobVacancyAccess.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DAL_QLTD\\JobVacancyAccess.cs",
+              "RelativeToolTip": "DAL_QLTD\\JobVacancyAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:02:16.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "InterviewScheduleAccess.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DAL_QLTD\\InterviewScheduleAccess.cs",
+              "RelativeDocumentMoniker": "DAL_QLTD\\InterviewScheduleAccess.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DAL_QLTD\\InterviewScheduleAccess.cs",
+              "RelativeToolTip": "DAL_QLTD\\InterviewScheduleAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:02:05.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ChangePasswordAccess.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DAL_QLTD\\ChangePasswordAccess.cs",
+              "RelativeDocumentMoniker": "DAL_QLTD\\ChangePasswordAccess.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DAL_QLTD\\ChangePasswordAccess.cs",
+              "RelativeToolTip": "DAL_QLTD\\ChangePasswordAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:01:38.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DAL_DatabaseAccess.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DAL_QLTD\\DAL_DatabaseAccess.cs",
+              "RelativeDocumentMoniker": "DAL_QLTD\\DAL_DatabaseAccess.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DAL_QLTD\\DAL_DatabaseAccess.cs",
+              "RelativeToolTip": "DAL_QLTD\\DAL_DatabaseAccess.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAiwB8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T00:22:14.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "BUS_RecruitmentDetails.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\BUS_QLTD\\BUS_RecruitmentDetails.cs",
+              "RelativeDocumentMoniker": "BUS_QLTD\\BUS_RecruitmentDetails.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\BUS_QLTD\\BUS_RecruitmentDetails.cs",
+              "RelativeToolTip": "BUS_QLTD\\BUS_RecruitmentDetails.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAiwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T00:23:44.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AccountAccess.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DAL_QLTD\\AccountAccess.cs",
+              "RelativeDocumentMoniker": "DAL_QLTD\\AccountAccess.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DAL_QLTD\\AccountAccess.cs",
+              "RelativeToolTip": "DAL_QLTD\\AccountAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:00:48.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "BUS_InterviewSchedule.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\BUS_QLTD\\BUS_InterviewSchedule.cs",
+              "RelativeDocumentMoniker": "BUS_QLTD\\BUS_InterviewSchedule.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\BUS_QLTD\\BUS_InterviewSchedule.cs",
+              "RelativeToolTip": "BUS_QLTD\\BUS_InterviewSchedule.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:11:29.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "BUS_JobVacancy.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\BUS_QLTD\\BUS_JobVacancy.cs",
+              "RelativeDocumentMoniker": "BUS_QLTD\\BUS_JobVacancy.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\BUS_QLTD\\BUS_JobVacancy.cs",
+              "RelativeToolTip": "BUS_QLTD\\BUS_JobVacancy.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowDsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T00:00:16.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "BUS_ChangePassword.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\BUS_QLTD\\BUS_ChangePassword.cs",
+              "RelativeDocumentMoniker": "BUS_QLTD\\BUS_ChangePassword.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\BUS_QLTD\\BUS_ChangePassword.cs",
+              "RelativeToolTip": "BUS_QLTD\\BUS_ChangePassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:00:17.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "BUS_Account.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\BUS_QLTD\\BUS_Account.cs",
+              "RelativeDocumentMoniker": "BUS_QLTD\\BUS_Account.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\BUS_QLTD\\BUS_Account.cs",
+              "RelativeToolTip": "BUS_QLTD\\BUS_Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:55:46.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "HR.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:14:27.005Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "HR_DoiMatKhau.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_DoiMatKhau.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR_DoiMatKhau.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_DoiMatKhau.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR_DoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:55:41.735Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Form1.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Form1.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Form1.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T09:16:49.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Admin.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Admin.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T09:17:30.68Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "DepartmentEmployee_LichPhongVan.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee_LichPhongVan.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentEmployee_LichPhongVan.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentEmployee_LichPhongVan.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentEmployee_LichPhongVan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:23:08.655Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "DepartmentManager_YeuCau.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_YeuCau.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentManager_YeuCau.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_YeuCau.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentManager_YeuCau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:48:21.676Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "DepartmentManager_ViTriTD.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_ViTriTD.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentManager_ViTriTD.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_ViTriTD.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentManager_ViTriTD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:42:24.05Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "DepartmentManager_HoSo.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_HoSo.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentManager_HoSo.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_HoSo.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentManager_HoSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:50:08.297Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "DepartmentManager.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentManager.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:42:42.334Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "HR_lichPhongVan.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_lichPhongVan.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR_lichPhongVan.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_lichPhongVan.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR_lichPhongVan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:55:42.842Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "DepartmentManager_HoSo.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_HoSo.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\DepartmentManager_HoSo.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\DepartmentManager_HoSo.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\DepartmentManager_HoSo.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAawFoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:45:29.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "HR_QuanLyViTriTuyenDung.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_QuanLyViTriTuyenDung.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR_QuanLyViTriTuyenDung.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_QuanLyViTriTuyenDung.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR_QuanLyViTriTuyenDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:55:53.927Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "HR_lichPhongVan.resx",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_lichPhongVan.resx",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\HR_lichPhongVan.resx",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\HR_lichPhongVan.resx",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\HR_lichPhongVan.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-10T07:28:26.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Recruiter.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Recruiter.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Recruiter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:56:30.495Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\IUser.cs",
+              "RelativeDocumentMoniker": "DTO_QLTD\\IUser.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\IUser.cs",
+              "RelativeToolTip": "DTO_QLTD\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:19:08.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "IResume.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\IResume.cs",
+              "RelativeDocumentMoniker": "DTO_QLTD\\IResume.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\DTO_QLTD\\IResume.cs",
+              "RelativeToolTip": "DTO_QLTD\\IResume.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:19:13.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "GUI_QLTD",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\GUI_QLTD.csproj",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\GUI_QLTD.csproj",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\GUI_QLTD.csproj",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\GUI_QLTD.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-06T11:00:59.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Recruiter_DangTin.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_DangTin.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Recruiter_DangTin.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_DangTin.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Recruiter_DangTin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:04:34.017Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Recruiter_LienLac.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_LienLac.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Recruiter_LienLac.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Recruiter_LienLac.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Recruiter_LienLac.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:46:36.486Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "RJButton.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\RJButton.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\RJButton.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\RJButton.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\RJButton.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAIBXwJkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:22:08.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "RJButton.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\RJButton.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\RJButton.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\RJButton.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\RJButton.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:22:56.695Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Test.Designer.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Test.Designer.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Test.Designer.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Test.Designer.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Test.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:53:21.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Test.cs",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Test.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Test.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Test.cs",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Test.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:55:02.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Test.cs [Design]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Test.cs",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\Test.cs",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\Test.cs [Design]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\Test.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:53:05.099Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "t\u1EA3i-xu\u1ED1ng.ico - Icon [225x225, 8 bit, BMP]",
+              "DocumentMoniker": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\t\u1EA3i-xu\u1ED1ng.ico",
+              "RelativeDocumentMoniker": "Nhom8_DeTai11_IT20\\t\u1EA3i-xu\u1ED1ng.ico",
+              "ToolTip": "E:\\Documents\\L\u1EACP TR\u00CCNH .NET\\Nhom8_DeTai11_IT20\\Nhom8_DeTai11_IT20\\t\u1EA3i-xu\u1ED1ng.ico - Icon [225x225, 8 bit, BMP]",
+              "RelativeToolTip": "Nhom8_DeTai11_IT20\\t\u1EA3i-xu\u1ED1ng.ico - Icon [225x225, 8 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-07-07T14:41:20.337Z",
+              "EditorCaption": " - Icon [225x225, 8 bit, BMP]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

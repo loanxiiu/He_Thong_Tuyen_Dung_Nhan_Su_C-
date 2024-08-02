@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D0ECF93-9C25-4CFF-883D-1DC494F46B03}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Nhom8_DeTai11_IT20</RootNamespace>
+    <AssemblyName>Nhom8_DeTai11_IT20</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="Bunifu.Licensing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.Licensing.6.0.2\lib\net48\Bunifu.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.7.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=110.2.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.110.2.0\lib\net471\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.CodeDom, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.CodeDom.8.0.0\lib\net462\System.CodeDom.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.7.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.7.0.2\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_HR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_HR.Designer.cs">
+      <DependentUpon>Admin_HR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_NVBP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_NVBP.Designer.cs">
+      <DependentUpon>Admin_NVBP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_NVTD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_NVTD.Designer.cs">
+      <DependentUpon>Admin_NVTD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_QLBP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_QLBP.Designer.cs">
+      <DependentUpon>Admin_QLBP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DepartmentEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentEmployee.Designer.cs">
+      <DependentUpon>DepartmentEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentEmployee_DuyetHoSo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentEmployee_DuyetHoSo.Designer.cs">
+      <DependentUpon>DepartmentEmployee_DuyetHoSo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentEmployee_LichPhongVan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentEmployee_LichPhongVan.Designer.cs">
+      <DependentUpon>DepartmentEmployee_LichPhongVan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentManager.Designer.cs">
+      <DependentUpon>DepartmentManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentManager_HoSo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentManager_HoSo.Designer.cs">
+      <DependentUpon>DepartmentManager_HoSo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentManager_ViTriTD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentManager_ViTriTD.Designer.cs">
+      <DependentUpon>DepartmentManager_ViTriTD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentManager_YeuCau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentManager_YeuCau.Designer.cs">
+      <DependentUpon>DepartmentManager_YeuCau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HR_DoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HR_DoiMatKhau.Designer.cs">
+      <DependentUpon>HR_DoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HR_lichPhongVan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HR_lichPhongVan.Designer.cs">
+      <DependentUpon>HR_lichPhongVan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HR_QLHoSo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HR_QLHoSo.Designer.cs">
+      <DependentUpon>HR_QLHoSo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HR_QuanLyViTriTuyenDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HR_QuanLyViTriTuyenDung.Designer.cs">
+      <DependentUpon>HR_QuanLyViTriTuyenDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HR.Designer.cs">
+      <DependentUpon>HR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintReport.Designer.cs">
+      <DependentUpon>PrintReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLTDDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLTDDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Recruiter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recruiter.Designer.cs">
+      <DependentUpon>Recruiter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recruiter_DangTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recruiter_DangTin.Designer.cs">
+      <DependentUpon>Recruiter_DangTin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recruiter_LienLac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recruiter_LienLac.Designer.cs">
+      <DependentUpon>Recruiter_LienLac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recruiter_QuanLyHoSo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recruiter_QuanLyHoSo.Designer.cs">
+      <DependentUpon>Recruiter_QuanLyHoSo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Test.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Test.Designer.cs">
+      <DependentUpon>Test.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_HR.resx">
+      <DependentUpon>Admin_HR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_NVBP.resx">
+      <DependentUpon>Admin_NVBP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_NVTD.resx">
+      <DependentUpon>Admin_NVTD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_QLBP.resx">
+      <DependentUpon>Admin_QLBP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentEmployee.resx">
+      <DependentUpon>DepartmentEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentEmployee_DuyetHoSo.resx">
+      <DependentUpon>DepartmentEmployee_DuyetHoSo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentEmployee_LichPhongVan.resx">
+      <DependentUpon>DepartmentEmployee_LichPhongVan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentManager.resx">
+      <DependentUpon>DepartmentManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentManager_HoSo.resx">
+      <DependentUpon>DepartmentManager_HoSo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentManager_ViTriTD.resx">
+      <DependentUpon>DepartmentManager_ViTriTD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentManager_YeuCau.resx">
+      <DependentUpon>DepartmentManager_YeuCau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HR.resx">
+      <DependentUpon>HR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HR_DoiMatKhau.resx">
+      <DependentUpon>HR_DoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HR_lichPhongVan.resx">
+      <DependentUpon>HR_lichPhongVan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HR_QLHoSo.resx">
+      <DependentUpon>HR_QLHoSo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HR_QuanLyViTriTuyenDung.resx">
+      <DependentUpon>HR_QuanLyViTriTuyenDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintReport.resx">
+      <DependentUpon>PrintReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Recruiter.resx">
+      <DependentUpon>Recruiter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recruiter_DangTin.resx">
+      <DependentUpon>Recruiter_DangTin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recruiter_LienLac.resx">
+      <DependentUpon>Recruiter_LienLac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recruiter_QuanLyHoSo.resx">
+      <DependentUpon>Recruiter_QuanLyHoSo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test.resx">
+      <DependentUpon>Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QLTDDataSet.xsc">
+      <DependentUpon>QLTDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLTDDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLTDDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLTDDataSet.xss">
+      <DependentUpon>QLTDDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS_QLTD\BUS_QLTD.csproj">
+      <Project>{1590eb16-8415-44c1-ae8a-1090a93ac468}</Project>
+      <Name>BUS_QLTD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL_QLTD\DAL_QLTD.csproj">
+      <Project>{f39e8b35-c0c0-42a4-ba65-b8a2be70f2b0}</Project>
+      <Name>DAL_QLTD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO_QLTD\DTO_QLTD.csproj">
+      <Project>{bd88e5f5-4e3c-417a-899f-a97ffa6045d5}</Project>
+      <Name>DTO_QLTD</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="tải-xuống.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

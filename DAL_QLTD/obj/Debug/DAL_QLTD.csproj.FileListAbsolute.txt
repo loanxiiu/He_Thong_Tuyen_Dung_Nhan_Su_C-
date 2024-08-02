@@ -1,0 +1,22 @@
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DAL_QLTD\bin\Debug\DAL_QLTD.dll
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DAL_QLTD\bin\Debug\DAL_QLTD.pdb
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DAL_QLTD\bin\Debug\DTO_QLTD.dll
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DAL_QLTD\bin\Debug\System.Data.SqlClient.dll
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DAL_QLTD\bin\Debug\DTO_QLTD.pdb
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DAL_QLTD\bin\Debug\System.Data.SqlClient.xml
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DAL_QLTD\obj\Debug\DAL_QLTD.csproj.AssemblyReference.cache
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DAL_QLTD\obj\Debug\DAL_QLTD.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DAL_QLTD\obj\Debug\DAL_QLTD.csproj.Up2Date
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DAL_QLTD\obj\Debug\DAL_QLTD.dll
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\DAL_QLTD\obj\Debug\DAL_QLTD.pdb
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DAL_QLTD\bin\Debug\DAL_QLTD.dll
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DAL_QLTD\bin\Debug\DAL_QLTD.pdb
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DAL_QLTD\bin\Debug\DTO_QLTD.dll
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DAL_QLTD\bin\Debug\System.Data.SqlClient.dll
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DAL_QLTD\bin\Debug\DTO_QLTD.pdb
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DAL_QLTD\bin\Debug\System.Data.SqlClient.xml
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DAL_QLTD\obj\Debug\DAL_QLTD.csproj.AssemblyReference.cache
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DAL_QLTD\obj\Debug\DAL_QLTD.csproj.CoreCompileInputs.cache
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DAL_QLTD\obj\Debug\DAL_QLTD.csproj.Up2Date
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DAL_QLTD\obj\Debug\DAL_QLTD.dll
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\DAL_QLTD\obj\Debug\DAL_QLTD.pdb

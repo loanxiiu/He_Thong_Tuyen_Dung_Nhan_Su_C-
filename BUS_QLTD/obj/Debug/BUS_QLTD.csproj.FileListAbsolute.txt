@@ -1,0 +1,22 @@
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\BUS_QLTD\bin\Debug\BUS_QLTD.dll
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\BUS_QLTD\bin\Debug\BUS_QLTD.pdb
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\BUS_QLTD\bin\Debug\DAL_QLTD.dll
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\BUS_QLTD\bin\Debug\DTO_QLTD.dll
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\BUS_QLTD\bin\Debug\DAL_QLTD.pdb
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\BUS_QLTD\bin\Debug\DTO_QLTD.pdb
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\BUS_QLTD\obj\Debug\BUS_QLTD.csproj.AssemblyReference.cache
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\BUS_QLTD\obj\Debug\BUS_QLTD.csproj.CoreCompileInputs.cache
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\BUS_QLTD\obj\Debug\BUS_QLTD.csproj.Up2Date
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\BUS_QLTD\obj\Debug\BUS_QLTD.dll
+E:\Users\ploan\source\repos\Nhom8_DeTai11_IT20\BUS_QLTD\obj\Debug\BUS_QLTD.pdb
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\BUS_QLTD\bin\Debug\BUS_QLTD.dll
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\BUS_QLTD\bin\Debug\BUS_QLTD.pdb
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\BUS_QLTD\bin\Debug\DAL_QLTD.dll
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\BUS_QLTD\bin\Debug\DTO_QLTD.dll
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\BUS_QLTD\bin\Debug\DAL_QLTD.pdb
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\BUS_QLTD\bin\Debug\DTO_QLTD.pdb
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\BUS_QLTD\obj\Debug\BUS_QLTD.csproj.AssemblyReference.cache
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\BUS_QLTD\obj\Debug\BUS_QLTD.csproj.CoreCompileInputs.cache
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\BUS_QLTD\obj\Debug\BUS_QLTD.csproj.Up2Date
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\BUS_QLTD\obj\Debug\BUS_QLTD.dll
+E:\Documents\LẬP TRÌNH .NET\Nhom8_DeTai11_IT20\BUS_QLTD\obj\Debug\BUS_QLTD.pdb
